@@ -2,7 +2,7 @@ import dblibrary.project.csci230.*;
 import java.io.*;
 import java.util.*;
 
-/**JUBIEEEEEEEEEE ALADE WAS HERE 
+/** 
  * Before you compile in DrJava, go to Edit > Preferences > Resource Locations 
  * Press the Add button under Extra Path to add the following two jars:
  * 
